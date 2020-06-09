@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  argo-app:
+  - apiVersion: v1
+    appVersion: 1.5.5
+    created: 2020-06-09T11:44:29.152886526+09:00
+    description: A Helm chart for ArgoCD Application
+    digest: a8dc8a485242a9195b38a846a6d9ec7a6e57130a814238d29b2068247f239596
+    name: argo-app
+    urls:
+    - https://yanghoon.github.io/charts/argo-app-0.1.0.tgz
+    version: 0.1.0
+generated: 2020-06-09T11:44:29.15241545+09:00
