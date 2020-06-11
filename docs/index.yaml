@@ -3,7 +3,16 @@ entries:
   argo-app:
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-11T16:32:44.42510306+09:00
+    created: 2020-06-11T16:47:08.999754882+09:00
+    description: A Helm chart for ArgoCD Application
+    digest: f5fe6cb443f3f140df748bcc15f0ceaff011f91ffe1b991d26576f325c553d98
+    name: argo-app
+    urls:
+    - https://yanghoon.github.io/charts/argo-app-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    appVersion: 1.5.5
+    created: 2020-06-11T16:47:08.999512498+09:00
     description: A Helm chart for ArgoCD Application
     digest: aba635bd6672d64a27122732e868dcca3465e4bde90d431134d70f7d99a7c3cd
     name: argo-app
@@ -12,7 +21,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-11T16:32:44.42486667+09:00
+    created: 2020-06-11T16:47:08.999278404+09:00
     description: A Helm chart for ArgoCD Application
     digest: 27848a5b4b970a0d8b83e8bb620bf1efd869c1ca5085fc0015b995289c24173f
     name: argo-app
@@ -21,11 +30,11 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-11T16:32:44.424627637+09:00
+    created: 2020-06-11T16:47:08.999034221+09:00
     description: A Helm chart for ArgoCD Application
     digest: a8dc8a485242a9195b38a846a6d9ec7a6e57130a814238d29b2068247f239596
     name: argo-app
     urls:
     - https://yanghoon.github.io/charts/argo-app-0.1.0.tgz
     version: 0.1.0
-generated: 2020-06-11T16:32:44.424232981+09:00
+generated: 2020-06-11T16:47:08.99863908+09:00
