@@ -1,1 +1,2 @@
 https://github.com/yanghoon/argo-app.git
+https://github.com/yanghoon/argo-app-kafka.git
