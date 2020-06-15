@@ -3,7 +3,7 @@ entries:
   argo-app:
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-15T18:52:11.436311891+09:00
+    created: 2020-06-15T18:54:18.294766422+09:00
     description: A Helm chart for ArgoCD Application
     digest: c284351a313c11c0e4e3536411f945a1a3d6f0d7182e046e9bb7ce239bdeb8c9
     name: argo-app
@@ -12,7 +12,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-15T18:52:11.435979958+09:00
+    created: 2020-06-15T18:54:18.29449626+09:00
     description: A Helm chart for ArgoCD Application
     digest: f7159d793e6f9531cbb1d74c4112a1a9f724b3c9f860e6ed1f563c79a99e2d3c
     name: argo-app
@@ -21,7 +21,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-15T18:52:11.435362839+09:00
+    created: 2020-06-15T18:54:18.293990528+09:00
     description: A Helm chart for ArgoCD Application
     digest: 77e1c0401cd38d69e9dda06df91c6c97f7efadcd9a4a59aa235f4294b5ef6f66
     name: argo-app
@@ -30,7 +30,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.5.5
-    created: 2020-06-15T18:52:11.434873925+09:00
+    created: 2020-06-15T18:54:18.293441374+09:00
     description: A Helm chart for ArgoCD Application
     digest: 6aa14e6ae2e0d6c14c1e283d4657b6e96b2db917b551395258de361f2441fe5d
     name: argo-app
@@ -40,11 +40,20 @@ entries:
   argo-app-kafka:
   - apiVersion: v1
     appVersion: 2.5.0
-    created: 2020-06-15T18:52:11.436656559+09:00
+    created: 2020-06-15T18:54:18.29567093+09:00
+    description: A Helm chart for Kafka deployed by Argo CD
+    digest: 47a9fa65bc4aaac7d5a28f1c75b5eb50f6d80f8807a0d42911662c652a7532dd
+    name: argo-app-kafka
+    urls:
+    - https://yanghoon.github.io/charts/argo-app-kafka-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: 2.5.0
+    created: 2020-06-15T18:54:18.295150835+09:00
     description: A Helm chart for Kafka deployed by Argo CD
     digest: ffd4274f1359b9bc7495f427e9eededad3eb228aefc5c054f51a7a275cf2695e
     name: argo-app-kafka
     urls:
     - https://yanghoon.github.io/charts/argo-app-kafka-0.1.0.tgz
     version: 0.1.0
-generated: 2020-06-15T18:52:11.434182591+09:00
+generated: 2020-06-15T18:54:18.292533512+09:00
